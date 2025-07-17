@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+input {
+  border-bottom: 1px black solid;
+}
+
+textarea {
+  border: 1px black solid;
+}
